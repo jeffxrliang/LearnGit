@@ -4,5 +4,7 @@ void main()
 {
 printf("hello world!/n");
 
+edit on master after branch 2.
+
 exit(1);
 }
